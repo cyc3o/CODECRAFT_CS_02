@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.env
+*.png
+*.jpg
+*.jpeg
+*.bmp
+*.tiff
+assets/samples/*
+!assets/samples/.gitkeep
