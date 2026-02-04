@@ -47,7 +47,7 @@ IMAGE_CIPHER/
     └── SAMPLES/            # Place Your Test Images Here
 ---
 
-## ⚡ SETUP 
+##⚡ SETUP 
 
 ```bash
 pip install -r requirements.txt
